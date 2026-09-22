@@ -1,0 +1,40 @@
+# Juju Wheels
+
+> Juju Wheels is a premium JDM wheel storefront based in the Netherlands, specialising in multi-piece and custom Japanese wheels, fitment services, and wheel parts. The site sells forged and cast JDM wheels, outer lips, inner barrels, step-up kits, and related accessories, and offers professional services including powder coating, wheel rebuilding, chrome plating, and fender rolling.
+
+## Priority pages
+
+- [Home](https://jujuwheels.com/): Brand overview, featured collections, and entry points to all major sections.
+- [Wheels for Sale](https://jujuwheels.com/collections/wheels-for-sale): Full catalogue of JDM wheels available for purchase.
+- [Outer Wheel Lips](https://jujuwheels.com/collections/outer-wheel-lips): Replacement and upgrade outer lips for multi-piece wheels.
+- [Inner Barrels](https://jujuwheels.com/collections/inner-barrels): Custom inner barrels for multi-piece wheel builds.
+- [Step-Up Wheel Kits](https://jujuwheels.com/collections/step-up-wheel-kits): Complete kits for widening or reconfiguring multi-piece wheels.
+- [BC Racing](https://jujuwheels.com/bc-racing): Official BC Racing coilover suspension products and landing page.
+- [StanceParts](https://jujuwheels.com/stanceparts): StanceParts air cup suspension systems and accessories.
+- [Services](https://jujuwheels.com/collections/services): Professional wheel services offered by Juju Wheels.
+- [Powder Coating](https://jujuwheels.com/powdercoating): Wheel powder coating service details and options.
+- [Wheel Rebuilding](https://jujuwheels.com/wheel-rebuilding): Wheel restoration and full rebuild services.
+- [Fender Rolling](https://jujuwheels.com/fender-rolling): Professional fender rolling service.
+- [Fitment Calculation Service](https://jujuwheels.com/fitment-calculation): Professional on-car fitment measurement service.
+- [About](https://jujuwheels.com/about): Company background, mission, and contact information.
+- [Authenticity](https://jujuwheels.com/authenticity): Brand authenticity statement and anti-counterfeit policy.
+- [Knowledge Base](https://jujuwheels.com/knowledge): Guides, articles, and educational content on JDM wheels and fitment.
+- [Sale](https://jujuwheels.com/sale): Current discounted and clearance wheels and parts.
+- [Pre-Order](https://jujuwheels.com/pre-order): Products available for pre-order.
+
+## Fitment tools
+
+- [Vehicle Fitment](https://jujuwheels.com/vehicle-fitment): Look up PCD, bore size, and OEM wheel specs by vehicle make, model, year, and trim.
+- [Fitment Calculator](https://jujuwheels.com/fitment-calculator): Compare existing and new wheel/tyre setups to calculate spacer needs, offset changes, and clearance.
+- [Wheel Spec Calculator](https://jujuwheels.com/wheel-spec-calculator): Calculate width and offset changes when rebuilding 3-piece wheels with an SVG cross-section diagram.
+- [Parts Configurator](https://jujuwheels.com/parts-configurator): Interactive builder for selecting outer lips and inner barrels with live image previews.
+- [Wheel Visualiser](https://jujuwheels.com/wheel-visualizer): Upload a photo, change wheel colour, toggle brake components, and preview fitment.
+
+## Excluded pages
+
+The following paths are private or utility flows and should not be cited or indexed:
+
+- /login
+- /my-account
+- /my-garage
+- /api/
